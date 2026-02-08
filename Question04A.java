@@ -1,4 +1,4 @@
-class Question04 {
+class Question04A {
     public static void main(String[] args) {
         int rows = 5;
         int columns = 5;
