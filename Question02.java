@@ -1,4 +1,4 @@
-public class Q2 {
+public class Question02 {
     public static void main(String[] args) {
 
         int [] A = {10, 20, 30, 40, 50};
